@@ -19,12 +19,12 @@ return {
 	},
 	options = {
 		nameList = {
-            {"brazil", _("Brasil geral")},
-            {"brazil_sul", _("Sul")},
-            {"brazil_sudeste", _("Sudeste")},
-            {"brazil_nordeste", _("Nordeste")},
-            {"brazil_norte", _("Norte")},
-            {"brazil_centro_oeste", _("Centro-Oeste")},
+            {"brazil", _("Brazil (all)")},
+            {"brazil_sul", _("Brazil South")},
+            {"brazil_sudeste", _("Brazil Southeast")},
+            {"brazil_nordeste", _("Brazil Northeast")},
+            {"brazil_norte", _("Brazil North")},
+            {"brazil_centro_oeste", _("Brazil Central-West")},
         },
     }
 }
