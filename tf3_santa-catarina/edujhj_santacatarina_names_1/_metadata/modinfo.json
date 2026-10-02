@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "edujhj",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "Adds the \"Brazil - Santa Catarina\" name list to the game.\n\nTowns are named after the 295 real municipalities of the state of Santa Catarina, Brazil (source: IBGE), such as Florianópolis, Joinville, Blumenau and Balneário Camboriú. Streets use 200 typical Santa Catarina street names, including avenidas, alamedas, estradas gerais and ruas. Person names also reflect the German, Italian and Azorean immigration to the state.\n\nSelect \"Brazil - Santa Catarina\" as the name list when creating a new map.\n\n---\n\nAdiciona a lista de nomes \"Brazil - Santa Catarina\" ao jogo.\n\nAs cidades recebem os nomes dos 295 municípios reais do estado de Santa Catarina, Brasil (fonte: IBGE), como Florianópolis, Joinville, Blumenau e Balneário Camboriú. As ruas usam 200 nomes típicos de Santa Catarina, incluindo avenidas, alamedas, estradas gerais e ruas. Os nomes das pessoas trazem também a imigração alemã, italiana e açoriana ao estado.\n\nSelecione \"Brazil - Santa Catarina\" como lista de nomes ao criar um novo mapa.",
+    "name": "Brazil - Santa Catarina Names",
+    "summary": "Town and street names from the state of Santa Catarina, Brazil.",
+    "tags": [
+        "Script Mod", "Localization"
+    ],
+    "url": ""
+}
